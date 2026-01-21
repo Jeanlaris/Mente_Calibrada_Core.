@@ -1,0 +1,24 @@
+# ALANTEC - Motor de Calibração de Filtro v1.0
+# Objetivo: Decodificação de Caos e Identificação de Sinal Técnico
+
+def calcular_proporcao_69_31(dados_brutos):
+    """
+    Separa o Sinal (69%) do Ruído (31%) para processamento Zenith.
+    """
+    sinal = [d for d in dados_brutos if d.get('tipo') == 'tecnico']
+    ruido = [d for d in dados_brutos if d.get('tipo') == 'subjetivo']
+    
+    return {
+        "status": "M1 Ativado",
+        "sinal_tecnico": len(sinal),
+        "ruido_estrategico": len(ruido)
+    }
+
+# Simulação de Processamento de Dados Brutos
+entrada = [
+    {'id': 1, 'tipo': 'tecnico', 'conteudo': 'Configuração API Gemini'},
+    {'id': 2, 'tipo': 'subjetivo', 'conteudo': 'Visão de Futuro'},
+    {'id': 3, 'tipo': 'tecnico', 'conteudo': 'Estrutura GitHub Sponsors'}
+]
+
+print(calcular_proporcao_69_31(entrada))
