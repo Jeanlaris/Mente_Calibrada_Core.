@@ -1,0 +1,27 @@
+{
+  "projeto": "ALANTEC",
+  "fase": "1 - A Semeadura",
+  "objetivo": "Decodificação de Caos e Calibração de Lógica",
+  "cronograma_diario": {
+    "missao_total_minutos": 20,
+    "atividades": [
+      {
+        "nome": "Decodificação do Caos",
+        "duracao_minutos": 15,
+        "input": "Dados Brutos e Fontes Primárias",
+        "objetivo": "Identificar padrões e remover ruído sistêmico"
+      },
+      {
+        "nome": "Calibração do Filtro",
+        "duracao_minutos": 5,
+        "pergunta_chave": "Qual a real intenção por trás dessa informação?",
+        "resultado_esperado": "Ação Consequente (M1)"
+      }
+    ]
+  },
+  "metricas_de_sucesso": {
+    "proporcao_alvo": "69/31",
+    "status_atual": "Pending_Approval_Sponsors",
+    "metodo": "Engenharia da Antecipação"
+  }
+}
