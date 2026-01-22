@@ -1,4 +1,4 @@
-# 📜 MANIFESTO DA MENTE CALIBRADA: O CÓDIGO ALFA
+# 📜 MANIFESTO DA MENTE CALIBRADA: O ÁPICE 3169
 
 **Destinatário:** Geração Alfa (Liderada pela linhagem Jean Laris).  
 **Propósito:** Soberania Operacional e Engenharia da Antecipação.
