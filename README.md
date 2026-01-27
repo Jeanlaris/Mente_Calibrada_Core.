@@ -1,5 +1,8 @@
 # MPL: O CÓDIGO FONTE DA ANTECIPAÇÃO
 
+> **MANIFESTO:** Mundo 144p | Mente 4K. Transformar caos em poder.
+> ⭐ **DEIXE SUA ESTRELA:** O rastro da sua soberania começa aqui.
+---
 
 **Destinatário:** Geração Alfa (Liderada pela linhagem Jean Laris).  
 **Propósito:** Soberania Operacional e Engenharia da Antecipação.
